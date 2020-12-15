@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-14T10:07:11Z" name="Default suite" finished-at="2020-12-14T10:07:35Z" duration-ms="24411">
+    <groups>
+    </groups>
+    <test started-at="2020-12-14T10:07:11Z" name="Default test" finished-at="2020-12-14T10:07:35Z" duration-ms="24411">
+      <class name="Academy.HomePage">
+        <test-method is-config="true" signature="driverinitalize()[pri:0, instance:Academy.HomePage@f80945f]" started-at="2020-12-14T15:37:11Z" name="driverinitalize" finished-at="2020-12-14T15:37:26Z" duration-ms="14736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverinitalize -->
+        <test-method signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@f80945f]" started-at="2020-12-14T15:37:26Z" name="basePageNavigation" data-provider="getData" finished-at="2020-12-14T15:37:29Z" duration-ms="3023" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asdfadsf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdfadsf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@f80945f]" started-at="2020-12-14T15:37:29Z" name="basePageNavigation" data-provider="getData" finished-at="2020-12-14T15:37:32Z" duration-ms="3261" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wwow]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdnfn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@f80945f]" started-at="2020-12-14T15:37:32Z" name="basePageNavigation" data-provider="getData" finished-at="2020-12-14T15:37:35Z" duration-ms="3246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asdfn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Academy.HomePage@f80945f]" started-at="2020-12-14T15:37:35Z" name="tearDown" finished-at="2020-12-14T15:37:35Z" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Academy.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

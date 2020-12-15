@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 42.889 s <<< FAILURE! - in TestSuite
+Academy.LandingPageTest.basePageNavigation  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.AssertionError: expected [FEATURED45 COURSES] but found [FEATURED COURSES]
+	at Academy.LandingPageTest.basePageNavigation(LandingPageTest.java:36)
+
